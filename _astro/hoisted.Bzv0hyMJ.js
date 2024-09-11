@@ -1,1 +1,0 @@
-import"https://www.paypal.com/sdk/js?client-id=AW8w-HMsHWRuOsB5I3uJSnc2ttC3b_W9yn5XHbOzXaa8_GnoEa0CP31yS0C-eU7g-7Es0l8Bp_OanXwZ";import"./ViewTransitions.astro_astro_type_script_index_0_lang.CmkSwYHY.js";import"./YouTube.astro_astro_type_script_index_0_lang.DkY74W4p.js";import"./Vimeo.astro_astro_type_script_index_0_lang.CgRsrQuG.js";
